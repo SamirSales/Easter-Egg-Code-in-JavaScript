@@ -1,4 +1,5 @@
-# Monsieur Roger (Version with Bubbles)
+# Konami Code in JavaScript
+***Monsieur Roger (Version with Bubbles)***
 
 A simple jQuery implementation of konami code with a floating bubbles effect as example. A tribute to friends: Monsieur Roger and Paolo O.
 
